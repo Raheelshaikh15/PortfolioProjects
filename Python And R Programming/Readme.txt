@@ -1,0 +1,2 @@
+- this is a basic project displaying python and R programming skills.
+- the data sets required for the programming tasks are present in the "datasets" folder
