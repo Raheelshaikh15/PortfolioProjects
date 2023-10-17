@@ -1,0 +1,4 @@
+- This project make use of different machine learning algorithms to predict the severity of road accidents in the UK
+- Based on the data set provided we were able to categorise the road accident into different level of severity and by doing so the required aid could be sent to the scene
+- the data used for is project is available in the data set folder
+- upload the .ipynb file in google colab and press the play button on the left to execute the code.
