@@ -1,0 +1,3 @@
+- The code in a google colab notebook. 
+- Open Google colab and uplooad the .ipynb file .
+- press the play buttom on the left of each sell to execute the code
